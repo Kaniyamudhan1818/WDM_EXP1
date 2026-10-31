@@ -1,5 +1,7 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 31-10-2026
+### NAME: KANIYAMUDHAN V
+### REG NO: 212224040148
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,6 +56,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+<img width="1917" height="1137" alt="Screenshot 2026-10-31 140940" src="https://github.com/user-attachments/assets/27247874-6f44-400e-a705-3f0416ec32ce" />
 
 
 ### PREPROCESSING
@@ -75,6 +78,8 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1917" height="1136" alt="Screenshot 2026-10-31 135344" src="https://github.com/user-attachments/assets/2b092b26-f090-4e9b-8cd0-f08f3ec614ea" />
+<img width="1917" height="1140" alt="Screenshot 2026-10-31 135910" src="https://github.com/user-attachments/assets/7e2bee77-7787-4b62-b11f-c362ad984f66" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +96,8 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+<img width="1917" height="1135" alt="Screenshot 2026-10-31 135632" src="https://github.com/user-attachments/assets/3cbafb48-bd60-4fbf-8ba2-7a238a7d5c95" />
+<img width="1917" height="1135" alt="Screenshot 2026-10-31 135752" src="https://github.com/user-attachments/assets/45161e5a-dd30-4fcb-b48f-38147134b47e" />
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +114,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+<img width="1917" height="1135" alt="Screenshot 2026-10-31 140009" src="https://github.com/user-attachments/assets/d388fb45-aa7c-425f-bfff-f060cf171322" />
+<img width="1917" height="1135" alt="Screenshot 2026-10-31 142420" src="https://github.com/user-attachments/assets/fd279f55-ed90-43f2-a69a-367082eb8db4" />
+
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
